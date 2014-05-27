@@ -1,0 +1,25 @@
+
+/* IE (all versions) */
+/* ----------------------------------------- */
+
+
+.tabs_content li{
+	list-style-position:outside;
+}
+
+#sb_content .ngg-widget{
+	margin-left: 0px;
+}
+
+#sb_content #ngg-img-desc {
+	bottom: 69px;
+
+}
+
+#post_utility_menu ul li a{
+padding-left:5px;
+}
+
+#sociable ul li a{
+	padding-left: 2px;
+}

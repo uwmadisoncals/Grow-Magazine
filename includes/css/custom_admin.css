@@ -1,0 +1,15 @@
+#list_linked_options{
+display:none;
+border-top: 1px solid #CCC;
+margin-top:16px;
+padding: 8px;
+background: #f9f9f9;
+}
+
+#list_linked_posts{
+border:1px solid #DFDFDF;
+height:200px;
+overflow:auto;
+padding:0.5em 0.9em;
+background: #FFF
+}
