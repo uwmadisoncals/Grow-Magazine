@@ -139,7 +139,7 @@
                     </li>
 			<?php 	
 					} ?> 
-					<li><a href="http://grow.cals.wisc.edu/files/2014/06/GrowSUM14-web.pdf" class="download_issue" title="Download current issue">Download</a></li>  
+					<li><a href="http://grow.cals.wisc.edu/files/2014/06/GrowSUM14-web.pdf" class="download_issue"  title="Download current issue">Download</a></li>  
 				</ul>
 
 			</div>

@@ -21,7 +21,7 @@
 			   
 		    ?> 
 
-		<?php comments_template(); ?>
+		<?php //comments_template(); ?>
         
 		<?php endwhile; ?>
 

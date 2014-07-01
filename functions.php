@@ -196,9 +196,6 @@ include("includes/functions/grow_exclude_posts.php");
 
  } //END DEV AREA 
 
-?>
-
-<?php
 function admin_level($user_login=''){
     global $current_user;
     get_currentuserinfo();

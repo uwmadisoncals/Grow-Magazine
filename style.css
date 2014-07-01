@@ -700,6 +700,12 @@ float:none;
 height:170px;
 width:170px;
 }
+
+input.medium {
+	height: auto;
+	width: auto;
+}
+
 .small{
 height:75px;
 width:75px;
