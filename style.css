@@ -2,12 +2,12 @@
 /*
 Theme Name: Grow Magazine
 Version: 1.2
-Author: Vidal Quevedo
+Author: Al Nemec
 */
 
 *,html,body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,label,fieldset,input,p,blockquote,th,td {
 margin:0;
-padding:0 
+padding:0
 }
 
 table {
@@ -1136,11 +1136,11 @@ widht:92%;
 /* Facebook Switch To */
 
 #post_utility_menu li, #tools li {
-	position: relative;	
+	position: relative;
 }
 
 #post_utility_menu .noIndent,#post_utility_menu li:last-child, #tools li:last-child {
-	height: 18px;	
+	height: 18px;
 	width: 97px;
 }
 
