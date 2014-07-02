@@ -278,3 +278,14 @@ p {
   font-size: 1.3em;
   line-height: 1.2em;
 }
+
+.headerNav {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+.coverFeature {
+  height: 400px;
+  overflow: hidden;
+}

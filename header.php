@@ -104,6 +104,7 @@
 <div id="page" <?php if (is_front_page() || is_page('476') ){ echo "class=\"home\"";} else { echo "class=\"clearfix\"";}?>>
 
 		<div id ="header">
+				<div class="headerNav">
             <div id="utility_bar">
             	<div id="utility_bar_search">
                 	<?php include (TEMPLATEPATH . "/searchform.php"); ?>
@@ -142,7 +143,12 @@
 					} ?>
 					<li><a href="http://grow.cals.wisc.edu/files/2014/06/GrowSUM14-web.pdf" class="download_issue"  title="Download current issue">Download</a></li>
 				</ul>
+			</div>
+
+
+
+			</div>
+			<div class="coverFeature">
 
 			</div>
 	      </div>
-          <br class="dirtyLittleTrick"/>
